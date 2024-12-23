@@ -1,17 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Relationship Journal (WORK IN PROGRESS)
+
+A modern web application for couples to track their relationship journey, including happy moments, special occasions, and even conflicts. Built with Next.js, TypeScript, and Tailwind CSS.
+
+## Features
+
+- 📅 Interactive Calendar View
+  - Track different types of events
+  - Visual indicators for dates with entries
+  - Easy navigation between months
+
+- 📝 Entry Types
+  - **Fights**: Document conflicts and resolutions
+  - **Happy Moments**: Capture joyful experiences with photos
+  - **Special Events**: Schedule and set reminders for important dates
+
+- 🖼️ Gallery View
+  - View all uploaded photos
+  - Organized by date and event type
+
+- 🌙 Dark Mode Support
+  - Automatic theme switching based on system preferences
+
+## Tech Stack
+
+- **Framework**: Next.js 14
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **State Management**: React Context
+- **UI Components**: Custom components
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
